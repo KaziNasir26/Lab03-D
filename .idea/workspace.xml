@@ -1,33 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7337783a-7174-4f20-bcd9-f46967ebe14f" name="Changes" comment="" />
+    <list default="true" id="7337783a-7174-4f20-bcd9-f46967ebe14f" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Anthology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Classic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Fiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/MyBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03ExerciseD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03ExerciseD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KaziNasir26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KaziNasir26/Lab03-D.git&quot;,
+    &quot;accountId&quot;: &quot;5dedb7a1-b4fb-4efe-ad24-e9690cc72966&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2jRt2D93W13RofxEkq2UpGttuQM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MyBook.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BooksTest.checkRelationship_AnthologyCoverArt.executor": "Run",
+    "JUnit.BooksTest.checkRelationship_NonfictionTopic.executor": "Run",
+    "JUnit.BooksTest.testAnthology_InheritedConstructor.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/fahad/Desktop/ENSF380/Lab03ExerciseD",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.BooksTest.checkRelationship_NonfictionTopic">
+    <configuration name="MyBook" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ucalgary.ensf380.MyBook" />
+      <module name="Lab03ExerciseD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ucalgary.ensf380.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksTest.checkRelationship_AnthologyCoverArt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03ExerciseD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucalgary.ensf380.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucalgary.ensf380" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucalgary.ensf380.BooksTest" />
+      <option name="METHOD_NAME" value="checkRelationship_AnthologyCoverArt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksTest.checkRelationship_NonfictionTopic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03ExerciseD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucalgary.ensf380.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucalgary.ensf380" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucalgary.ensf380.BooksTest" />
+      <option name="METHOD_NAME" value="checkRelationship_NonfictionTopic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksTest.testAnthology_InheritedConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03ExerciseD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucalgary.ensf380.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucalgary.ensf380" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucalgary.ensf380.BooksTest" />
+      <option name="METHOD_NAME" value="testAnthology_InheritedConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BooksTest.checkRelationship_NonfictionTopic" />
+        <item itemvalue="JUnit.BooksTest.testAnthology_InheritedConstructor" />
+        <item itemvalue="JUnit.BooksTest.checkRelationship_AnthologyCoverArt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,11 +161,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721361509259</updated>
-      <workItem from="1721361510455" duration="1000" />
+      <workItem from="1721361510455" duration="538000" />
+      <workItem from="1721362066394" duration="1819000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1721361528464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721361528464</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1721361550059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721361550059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
