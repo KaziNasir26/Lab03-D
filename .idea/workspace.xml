@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7337783a-7174-4f20-bcd9-f46967ebe14f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Anthology.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Classic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/Fiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/ucalgary/ensf380/MyBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03ExerciseD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03ExerciseD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7337783a-7174-4f20-bcd9-f46967ebe14f" name="Changes" comment="final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BooksTest.checkRelationship_NonfictionTopic">
+  <component name="RunManager">
     <configuration name="MyBook" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ca.ucalgary.ensf380.MyBook" />
       <module name="Lab03ExerciseD" />
@@ -162,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721361509259</updated>
       <workItem from="1721361510455" duration="538000" />
-      <workItem from="1721362066394" duration="1819000" />
+      <workItem from="1721362066394" duration="2917000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -180,14 +170,106 @@
       <option name="project" value="LOCAL" />
       <updated>1721361550059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished working on fiction">
+      <option name="closed" value="true" />
+      <created>1721365715932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365715932</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working on book class">
+      <option name="closed" value="true" />
+      <created>1721365740801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365740801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added new class anthology">
+      <option name="closed" value="true" />
+      <created>1721365773170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365773170</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finished working on a couple of classes">
+      <option name="closed" value="true" />
+      <created>1721365813836</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365813836</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed main fucntion in MyBook class">
+      <option name="closed" value="true" />
+      <created>1721365841022</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365841022</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initially the code is running">
+      <option name="closed" value="true" />
+      <created>1721365872777</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365872777</updated>
+    </task>
+    <task id="LOCAL-00009" summary="final classes added">
+      <option name="closed" value="true" />
+      <created>1721365933259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365933259</updated>
+    </task>
+    <task id="LOCAL-00010" summary="started working on test class but not working">
+      <option name="closed" value="true" />
+      <created>1721365963635</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365963635</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1721365978807</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721365978807</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="finished working on fiction" />
+    <MESSAGE value="working on book class" />
+    <MESSAGE value="added new class anthology" />
+    <MESSAGE value="finished working on a couple of classes" />
+    <MESSAGE value="fixed main fucntion in MyBook class" />
+    <MESSAGE value="initially the code is running" />
+    <MESSAGE value="final classes added" />
+    <MESSAGE value="started working on test class but not working" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
